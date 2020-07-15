@@ -1,0 +1,32 @@
+1. This project is made using HTML5 , CSS3 , JAVASCRIPT , PHP , SQL and MYsql only.
+2. Not a single framework or liberary is used in this project.
+3. All folder And file are well structured in this project.
+4. Order of CSS3:-
+	i.   Width and Height
+	ii.  Display and Its properties
+	iii. font and Its properties
+	iv.  Margin and padding are second last
+	v.   transition is at last
+
+
+5. Given project have following thing:-
+
+	USER Panel:
+		1. Welcome page(index.php)
+		2. user profile Update page(profile.php)
+		3. DashBoard page(dashboard.php)
+		4. Books page (book.php)
+	
+	ADMIN panel:
+		1.Admin page(admin.php) i.e dasboard
+		2.Member page(memeber.php)
+		3.Manage Book page(manage_books.php)
+		4.Add book page(add_books.php)
+		5.Issue book page(issue_book.php)
+		6.Return Book page(return_book.php)
+		7.Change password page(change_password.php)
+
+
+7.For futher query You can contact me on 2018ucp1421@mnit.ac.in .
+
+
